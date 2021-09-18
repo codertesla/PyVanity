@@ -58,7 +58,7 @@ def main():
 
 
     try:
-        print("\n🔭 Hang one, I'm searching the vanity ethereum address for you, type Ctrl+C to stop...\n")
+        print("\n🔭 Hang on, I'm searching the vanity ethereum address for you, type Ctrl+C to stop...\n")
         sleep(0.5)
         generate_vanity_address(prefix, suffix)
     except KeyboardInterrupt:
