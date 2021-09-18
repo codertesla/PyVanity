@@ -31,4 +31,4 @@
 
 Feel free to use it, modity it, have fun.
 
-@mTesla.eth
+@mTesla
