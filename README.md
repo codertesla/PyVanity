@@ -1,9 +1,10 @@
 # PyVanity
- A Really Fast Vanity Ethereum Address Generator.
+ 
+ > A Super Fast Ethereum Vanity Address Generator.
 
-## What you can do
+## What it can do for you
 
-* generate Ethereum vanity addresses at a super fast speed
+* It generates Ethereum vanity addresses at a super fast speed for you
 
 ## How to use it
 
@@ -13,7 +14,7 @@
 4. wait untill your vanity address shows up
 5. press Ctrl + C to stop the script
 
-## Is is safe
+## Is it safe
 
 * you can run this scrpit without network connection
 * keep your vanity address secret key SECRET
